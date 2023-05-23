@@ -1,0 +1,50 @@
+C:\ProyectosGit\Process_SA\Process_SA\bin\Debug\net6.0-windows\Process_SA.exe
+C:\ProyectosGit\Process_SA\Process_SA\bin\Debug\net6.0-windows\Process_SA.deps.json
+C:\ProyectosGit\Process_SA\Process_SA\bin\Debug\net6.0-windows\Process_SA.runtimeconfig.json
+C:\ProyectosGit\Process_SA\Process_SA\bin\Debug\net6.0-windows\Process_SA.dll
+C:\ProyectosGit\Process_SA\Process_SA\bin\Debug\net6.0-windows\Process_SA.pdb
+C:\ProyectosGit\Process_SA\Process_SA\obj\Debug\net6.0-windows\Process_SA.csproj.AssemblyReference.cache
+C:\ProyectosGit\Process_SA\Process_SA\obj\Debug\net6.0-windows\Process_SA.csproj.GenerateResource.cache
+C:\ProyectosGit\Process_SA\Process_SA\obj\Debug\net6.0-windows\Process_SA.GeneratedMSBuildEditorConfig.editorconfig
+C:\ProyectosGit\Process_SA\Process_SA\obj\Debug\net6.0-windows\Process_SA.AssemblyInfoInputs.cache
+C:\ProyectosGit\Process_SA\Process_SA\obj\Debug\net6.0-windows\Process_SA.AssemblyInfo.cs
+C:\ProyectosGit\Process_SA\Process_SA\obj\Debug\net6.0-windows\Process_SA.csproj.CoreCompileInputs.cache
+C:\ProyectosGit\Process_SA\Process_SA\obj\Debug\net6.0-windows\Process_SA.dll
+C:\ProyectosGit\Process_SA\Process_SA\obj\Debug\net6.0-windows\refint\Process_SA.dll
+C:\ProyectosGit\Process_SA\Process_SA\obj\Debug\net6.0-windows\Process_SA.pdb
+C:\ProyectosGit\Process_SA\Process_SA\obj\Debug\net6.0-windows\Process_SA.genruntimeconfig.cache
+C:\ProyectosGit\Process_SA\Process_SA\obj\Debug\net6.0-windows\ref\Process_SA.dll
+C:\ProyectosGit\Process_SA\Process_SA\obj\Debug\net6.0-windows\Process_SA.View.VistaLogin.resources
+C:\ProyectosGit\Process_SA\Process_SA\obj\Debug\net6.0-windows\Process_SA.View.VistaHome.resources
+D:\Downloads\Process_SA_v2\Process_SA\obj\Debug\net6.0-windows\Process_SA.csproj.AssemblyReference.cache
+D:\Downloads\Process_SA_v2\Process_SA\obj\Debug\net6.0-windows\Process_SA.Properties.Resources.resources
+D:\Downloads\Process_SA_v2\Process_SA\obj\Debug\net6.0-windows\Process_SA.Vista.VistaAdministrador.resources
+D:\Downloads\Process_SA_v2\Process_SA\obj\Debug\net6.0-windows\Process_SA.View.VistaEspera.resources
+D:\Downloads\Process_SA_v2\Process_SA\obj\Debug\net6.0-windows\Process_SA.Vista.VistaFuncionario.resources
+D:\Downloads\Process_SA_v2\Process_SA\obj\Debug\net6.0-windows\Process_SA.View.VistaLogin.resources
+D:\Downloads\Process_SA_v2\Process_SA\obj\Debug\net6.0-windows\Process_SA.Vista.VistaRegistro.resources
+D:\Downloads\Process_SA_v2\Process_SA\obj\Debug\net6.0-windows\Process_SA.Vista.VistaSistema.resources
+D:\Downloads\Process_SA_v2\Process_SA\obj\Debug\net6.0-windows\Process_SA.csproj.GenerateResource.cache
+D:\Downloads\Process_SA_v2\Process_SA\obj\Debug\net6.0-windows\Process_SA.GeneratedMSBuildEditorConfig.editorconfig
+D:\Downloads\Process_SA_v2\Process_SA\obj\Debug\net6.0-windows\Process_SA.AssemblyInfoInputs.cache
+D:\Downloads\Process_SA_v2\Process_SA\obj\Debug\net6.0-windows\Process_SA.AssemblyInfo.cs
+D:\Downloads\Process_SA_v2\Process_SA\obj\Debug\net6.0-windows\Process_SA.csproj.CoreCompileInputs.cache
+D:\Downloads\Process_SA_v2\Process_SA\obj\Debug\net6.0-windows\Process_SA.dll
+D:\Downloads\Process_SA_v2\Process_SA\obj\Debug\net6.0-windows\refint\Process_SA.dll
+D:\Downloads\Process_SA_v2\Process_SA\obj\Debug\net6.0-windows\Process_SA.pdb
+D:\Desktop\DUOC UC\Portafolio Process SA\Sistema\Programa\Versiones\Process_SA_V2\Process_SA\obj\Debug\net6.0-windows\Process_SA.csproj.AssemblyReference.cache
+D:\Desktop\DUOC UC\Portafolio Process SA\Sistema\Programa\Versiones\Process_SA_V2\Process_SA\obj\Debug\net6.0-windows\Process_SA.Properties.Resources.resources
+D:\Desktop\DUOC UC\Portafolio Process SA\Sistema\Programa\Versiones\Process_SA_V2\Process_SA\obj\Debug\net6.0-windows\Process_SA.Vista.VistaAdministrador.resources
+D:\Desktop\DUOC UC\Portafolio Process SA\Sistema\Programa\Versiones\Process_SA_V2\Process_SA\obj\Debug\net6.0-windows\Process_SA.View.VistaEspera.resources
+D:\Desktop\DUOC UC\Portafolio Process SA\Sistema\Programa\Versiones\Process_SA_V2\Process_SA\obj\Debug\net6.0-windows\Process_SA.Vista.VistaFuncionario.resources
+D:\Desktop\DUOC UC\Portafolio Process SA\Sistema\Programa\Versiones\Process_SA_V2\Process_SA\obj\Debug\net6.0-windows\Process_SA.View.VistaLogin.resources
+D:\Desktop\DUOC UC\Portafolio Process SA\Sistema\Programa\Versiones\Process_SA_V2\Process_SA\obj\Debug\net6.0-windows\Process_SA.Vista.VistaRegistro.resources
+D:\Desktop\DUOC UC\Portafolio Process SA\Sistema\Programa\Versiones\Process_SA_V2\Process_SA\obj\Debug\net6.0-windows\Process_SA.Vista.VistaSistema.resources
+D:\Desktop\DUOC UC\Portafolio Process SA\Sistema\Programa\Versiones\Process_SA_V2\Process_SA\obj\Debug\net6.0-windows\Process_SA.csproj.GenerateResource.cache
+D:\Desktop\DUOC UC\Portafolio Process SA\Sistema\Programa\Versiones\Process_SA_V2\Process_SA\obj\Debug\net6.0-windows\Process_SA.GeneratedMSBuildEditorConfig.editorconfig
+D:\Desktop\DUOC UC\Portafolio Process SA\Sistema\Programa\Versiones\Process_SA_V2\Process_SA\obj\Debug\net6.0-windows\Process_SA.AssemblyInfoInputs.cache
+D:\Desktop\DUOC UC\Portafolio Process SA\Sistema\Programa\Versiones\Process_SA_V2\Process_SA\obj\Debug\net6.0-windows\Process_SA.AssemblyInfo.cs
+D:\Desktop\DUOC UC\Portafolio Process SA\Sistema\Programa\Versiones\Process_SA_V2\Process_SA\obj\Debug\net6.0-windows\Process_SA.csproj.CoreCompileInputs.cache
+D:\Desktop\DUOC UC\Portafolio Process SA\Sistema\Programa\Versiones\Process_SA_V2\Process_SA\obj\Debug\net6.0-windows\Process_SA.dll
+D:\Desktop\DUOC UC\Portafolio Process SA\Sistema\Programa\Versiones\Process_SA_V2\Process_SA\obj\Debug\net6.0-windows\refint\Process_SA.dll
+D:\Desktop\DUOC UC\Portafolio Process SA\Sistema\Programa\Versiones\Process_SA_V2\Process_SA\obj\Debug\net6.0-windows\Process_SA.pdb
